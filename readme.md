@@ -13,10 +13,12 @@ https://pauljerimy.com/security-certification-roadmap/
 [Nessus (Tenable)](https://www.tenable.com/downloads/nessus?loginAttempted=true)  
 [Greenbone Community Edition (OpenVAS)](https://greenbone.github.io/docs/latest/)  
 [Common Vulnerability Scoring System (CVSS)](https://www.first.org/cvss/)  
-[Known Exploited Vulnerabilities (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+[Known Exploited Vulnerabilities (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 
 ### <ins>Security Awareness Resources</ins>
-[2024 - State of the Phish Report (useful information to know and baseline)](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf)
+[2024 - State of the Phish Report (useful information to know and baseline)](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf)  
+[KnowBe4 Security Training Platform](https://www.knowbe4.com/)  
+[GoPhish Open-Source Phishing Simulation Platform](https://getgophish.com/)  
 
 ### <ins>Digital Forensics & Incident Response Resources</ins>
 [SANS SIFT Virtual Forensic Workstation](https://www.sans.org/tools/sift-workstation/)  
