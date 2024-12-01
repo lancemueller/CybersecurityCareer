@@ -20,11 +20,11 @@ https://pauljerimy.com/security-certification-roadmap/
 ### <ins>Digital Forensics & Incident Response Resources</ins>
 [https://www.sans.org/tools/sift-workstation/](url)  
 [https://remnux.org/](url)  
-https://github.com/mesquidar/ForensicsTools  
-[https://go.exterro.com/l/43312/2023-05-03/fc4b78](FTK Imager)  
+[https://github.com/mesquidar/ForensicsTools](url)  
+[FTK Disk Imager](https://go.exterro.com/l/43312/2023-05-03/fc4b78)  
 [https://www.autopsy.com/](Autopsy Forensic Suite)  
-[https://digitalcorpora.org/corpora/disk-images/](Forensic Images for testing and learning)  
+[Forensic Images for testing and learning](https://digitalcorpora.org/corpora/disk-images/)  
 
 
 ### <ins>SEED Cybersecurity Labs</ins>
-https://seedsecuritylabs.org/labs.html
+[https://seedsecuritylabs.org/labs.html](url)
