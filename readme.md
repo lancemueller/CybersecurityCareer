@@ -42,6 +42,6 @@ https://pauljerimy.com/security-certification-roadmap/
 [VMware Workstation (now free)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  
 [Proxmox Virtual Server](https://www.proxmox.com/en/proxmox-virtual-environment/overview)  
 
-### <ins>Virtual Machines Manager and community machines</ins>
+### <ins>Virtual Machine Manager and Community Virtual Machines</ins>
 [Hashicorp Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)  
 [Vagrant Virtual Machine App Community](https://portal.cloud.hashicorp.com/vagrant/discover)
