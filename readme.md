@@ -2,6 +2,7 @@
 
 
 <ins> ### Cybersecurity Certification Roadmap: </ins>
+
 https://pauljerimy.com/security-certification-roadmap/
 Recommended certs for beginners:  Security+, Network+, Cloud+ (CompTIA), 
 
