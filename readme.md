@@ -6,7 +6,7 @@ Recommended certs for beginners:  Security+, Network+, Cloud+ (CompTIA),
 https://pauljerimy.com/security-certification-roadmap/
 
 ### <ins>Vulnerability Management</ins>
-[Nessus (Tenable)](https://www.tenable.com/downloads/nessus?loginAttempted=true)
+[Nessus (Tenable)](https://www.tenable.com/downloads/nessus?loginAttempted=true)  
 [Greenbone Community Edition (OpenVAS)](https://greenbone.github.io/docs/latest/)
 
 ### <ins>Security Awareness Resources</ins>
