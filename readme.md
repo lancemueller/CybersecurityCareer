@@ -32,6 +32,8 @@ https://pauljerimy.com/security-certification-roadmap/
 
 ### <ins>Penetration Testing Resources</ins>
 [Metasploit](https://www.metasploit.com/)  
+[Kali Penetration Testing Linux Distro](https://www.kali.org/get-kali/)   
+[Parrot OS Linux Security Distro](https://parrotsec.org/)
 [Burp Web Assessment Tool (Portswigger)](https://portswigger.net/burp/communitydownload)  
 [TryHackMe browser-based cybersecurity training platform](https://tryhackme.com/)  
 [HackinTheBox browser-based cybersecurity training platform](https://www.hackthebox.com/)  
