@@ -8,10 +8,10 @@ Using an example of someone learning about ropes as part of their job, here is w
 Now applying it to cybersecurity jobs:
 
 #### Green = Entry level   
-The role or position often requires little to no previous experience but certainly requires a good understanding of security principles.  The manager is expecting to do some on-the-job training and development.  There will likely be gaps in knowledge, but time on the job will help fill those gaps. In Security Operations (SOC), these are often called Tier 1 level analysts. In job postings, this can be titled "Cybersecurity Analyst".       
+The role or position often requires little to no previous experience but certainly requires a good understanding of security principles.  The manager is expecting to do some on-the-job training and development.  There will likely be gaps in knowledge, but time on the job will help fill those gaps. In Security Operations (SOC), these are often called Tier 1 level analysts. In job postings, this can be titled "Cybersecurity Analyst."       
 
 #### Yellow = Demonstrated past work experience   
-This often requires some prior experience in this role to establish higher expertise. This means it can be in a different role or industry. For example, a person applying for cyber threat intelligence may have experience in a past military role related to threat intelligence, which can be more easily transferable into this new role.   This is typically someone exposed to various topics, tools, and scenarios and has experience using the relevant tools. Often referred to as Tier 2 analysts. In job postings, this can be titled "Cybersecurity Specialist".     
+This often requires some prior experience in this role to establish higher expertise, which could be in a different role or industry. For example, a person applying for cyber threat intelligence may have experience in a past military role related to threat intelligence, which can be more easily transferable into this new role.   This is typically someone exposed to various topics, tools, and scenarios and has experience using the relevant tools. Often referred to as Tier 2 analysts. In job postings, this can be titled "Cybersecurity Specialist".     
 
 #### Pink = Senior-level roles    
 Requires tenure and demonstrated knowledge and understanding. Can make decisions based on experience, not simply from a textbook. Depending on the organization, they can be called Tier 3 analysts.  In job postings, this can be titled "Senior Cybersecurity Analyst".      
