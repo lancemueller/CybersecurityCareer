@@ -3,7 +3,7 @@ There is a wide range of cybersecurity roles and jobs. Each organization may nam
 #### Green = Entry level   
 It often requires little to no previous experience but certainly requires a good understanding of security principles.    
 
-#### Yellow = Demonstrated work experience   
+#### Yellow = Demonstrated past work experience   
 This often requires some prior experience in this role to establish higher expertise.    
 
 #### Pink = Senior-level roles    
