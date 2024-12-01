@@ -16,7 +16,7 @@ This often requires some prior experience in this role to establish higher exper
 #### Pink = Senior-level roles    
 Requires tenure and demonstrated knowledge and understanding. Can make decisions based on experience, not simply from a textbook.   
 
-#### Red = Expert-level roles—Subject matter experts.   
-These roles require a deep understanding of technical capabilities that can be easily demonstrated beyond what a book or framework describes. They often use intuition and knowledge based on repeated past experiences.  
+#### Red = Expert-level roles    
+Subject matter experts. These roles require a deep understanding of technical capabilities that can be easily demonstrated beyond what a book or framework describes. They often use intuition and knowledge based on repeated past experiences.  
 
 ![Screenshot of cybersecurity roles](https://github.com/lancemueller/CybersecurityCareer/blob/main/Cyber%20Roles.png)
