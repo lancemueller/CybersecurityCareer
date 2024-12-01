@@ -18,9 +18,9 @@ https://pauljerimy.com/security-certification-roadmap/
 2024 - State of the Phish - https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf
 
 ### <ins>Digital Forensics & Incident Response Resources</ins>
-[https://www.sans.org/tools/sift-workstation/](url)  
-[https://remnux.org/](url)  
-[https://github.com/mesquidar/ForensicsTools](url)  
+[SANS SIFT Virtual Forensic Workstation](https://www.sans.org/tools/sift-workstation/)  
+[SANS Reverse Engineering Virtual Workstation](https://remnux.org/)  
+[Great list of various forensic tools & resources](https://github.com/mesquidar/ForensicsTools)  
 [FTK Disk Imager](https://go.exterro.com/l/43312/2023-05-03/fc4b78)  
 [https://www.autopsy.com/](Autopsy Forensic Suite)  
 [Forensic Images for testing and learning](https://digitalcorpora.org/corpora/disk-images/)  
