@@ -22,9 +22,9 @@ https://pauljerimy.com/security-certification-roadmap/
 [SANS Reverse Engineering Virtual Workstation](https://remnux.org/)  
 [Great list of various forensic tools & resources](https://github.com/mesquidar/ForensicsTools)  
 [FTK Disk Imager](https://go.exterro.com/l/43312/2023-05-03/fc4b78)  
-[https://www.autopsy.com/](Autopsy Forensic Suite)  
+[Autopsy Forensic Suite](https://www.autopsy.com/download/)  
 [Forensic Images for testing and learning](https://digitalcorpora.org/corpora/disk-images/)  
 
 
 ### <ins>SEED Cybersecurity Labs</ins>
-[https://seedsecuritylabs.org/labs.html](url)
+[SEED Security Labs (virtual machines)](https://seedsecuritylabs.org/labs.html))
