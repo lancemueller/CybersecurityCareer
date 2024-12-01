@@ -27,4 +27,4 @@ https://pauljerimy.com/security-certification-roadmap/
 
 
 ### <ins>SEED Cybersecurity Labs</ins>
-[SEED Security Labs (virtual machines)](https://seedsecuritylabs.org/labs.html))
+[SEED Security Labs (virtual machines)](https://seedsecuritylabs.org/labs.html)  
