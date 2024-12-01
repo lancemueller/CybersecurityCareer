@@ -26,6 +26,11 @@ https://pauljerimy.com/security-certification-roadmap/
 [Autopsy Forensic Suite](https://www.autopsy.com/download/)  
 [Forensic Images for testing and learning](https://digitalcorpora.org/corpora/disk-images/)  
 
+### <ins>Penetration Testing Resources</ins>
+[Metasploit](https://www.metasploit.com/)  
+[Burp Web Assessment Tool (Portswigger)](https://portswigger.net/burp/communitydownload)  
+[TryHackMe browser-based cybersecurity training platform](https://tryhackme.com/)  
+[HackinTheBox browser-based cybersecurity training platform](https://www.hackthebox.com/)  
 
 ### <ins>SEED Cybersecurity Labs</ins>
 [SEED Security Labs (virtual machines)](https://seedsecuritylabs.org/labs.html)  
@@ -36,5 +41,5 @@ https://pauljerimy.com/security-certification-roadmap/
 [Proxmox Virtual Server](https://www.proxmox.com/en/proxmox-virtual-environment/overview)  
 
 ### <ins>Virtual Machines Manager and community machines</ins>
-[Hashicorp Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
+[Hashicorp Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)  
 [Vagrant Virtual Machine App Community](https://portal.cloud.hashicorp.com/vagrant/discover)
