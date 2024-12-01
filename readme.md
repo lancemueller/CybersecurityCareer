@@ -32,9 +32,9 @@ https://pauljerimy.com/security-certification-roadmap/
 [SEED Security Labs (virtual machines)](https://seedsecuritylabs.org/labs.html)  
 
 ### <ins>Hypervisors (software to run virtual machines)</ins>  
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-[VMware Workstation (now free)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
-[Proxmox Virtual Server](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
+[VMware Workstation (now free)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  
+[Proxmox Virtual Server](https://www.proxmox.com/en/proxmox-virtual-environment/overview)  
 
 ### <ins>Virtual Machines Manager and community machines</ins>
 [Hashicorp Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
