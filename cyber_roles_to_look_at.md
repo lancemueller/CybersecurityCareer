@@ -3,7 +3,9 @@ There is a wide range of cybersecurity roles and jobs. Each organization may nam
 Using an example of someone learning about ropes as part of their job, here is what the different roles and titles may look like:
 |Entry Level|Career|Senior|Expert|
 |-----------|------|------|------|
-|Learns about ropes/can tie basic knots and is shown complex knots| Calculates rope strength and knows most, if not all, different types of knots| Understands how ropes are made| Knows more about ropes than you ever will|
+|Learns about ropes/can tie basic knots and is shown complex knots but needs oversight and verification by others| Calculates rope strength and knows most, if not all, different types of knots| Understands how ropes are made| Knows more about ropes than you ever will|  
+
+Now applying it to cybersecurity jobs:
 
 #### Green = Entry level   
 It often requires little to no previous experience but certainly requires a good understanding of security principles.  The manager is expecting to do some on-the-job training and development.  There will likely be gaps in knowledge, but time on the job will help fill those gaps.     
