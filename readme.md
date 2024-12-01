@@ -1,7 +1,7 @@
 ## A list of resources for those looking to begin their career or advance in cybersecurity:
 
 
-### Cybersecurity Certification Roadmap:
+<ins> ### Cybersecurity Certification Roadmap: </ins>
 https://pauljerimy.com/security-certification-roadmap/
 Recommended certs for beginners:  Security+, Network+, Cloud+ (CompTIA), 
 
