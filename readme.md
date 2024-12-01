@@ -5,6 +5,9 @@ Recommended certs for beginners:  Security+, Network+, Cloud+ (CompTIA),
 ### <ins> Cybersecurity Certification Roadmap</ins>
 https://pauljerimy.com/security-certification-roadmap/
 
+### <ins>Vulnerability Management</ins>
+[Nessus (Tenable)]([url](https://www.tenable.com/downloads/nessus?loginAttempted=true))  
+
 ### <ins>Security Awareness Resources</ins>
 2024 - State of the Phish - https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf
 
