@@ -1,5 +1,6 @@
 ## A list of resources for those looking to begin their career or advance in cybersecurity:
 
+For those looking to enter cybersecurity, I strongly recommend getting at least an initial certification to help you get noticed during the application process. All of these certifications cost $250-$500, depending on sales and other discounts, but they are well worth it, and they last three years before they have to be renewed. 
 Recommended certs for beginners:  Security+, Network+, Cloud+ (CompTIA), 
 
 ### <ins> Cybersecurity Certification Roadmap</ins>
@@ -7,7 +8,7 @@ https://pauljerimy.com/security-certification-roadmap/
 
 ### <ins>Vulnerability Management</ins>
 [Nessus (Tenable)](https://www.tenable.com/downloads/nessus?loginAttempted=true)  
-[Greenbone Community Edition (OpenVAS)](https://greenbone.github.io/docs/latest/)
+[Greenbone Community Edition (OpenVAS)](https://greenbone.github.io/docs/latest/)  
 
 ### <ins>Security Awareness Resources</ins>
 2024 - State of the Phish - https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf
