@@ -15,7 +15,7 @@ https://pauljerimy.com/security-certification-roadmap/
 [Common Vulnerability Scoring System (CVSS)](https://www.first.org/cvss/)  
 
 ### <ins>Security Awareness Resources</ins>
-2024 - State of the Phish - https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf
+[2024 - State of the Phish Report (useful information to know and baseline)]((https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf)
 
 ### <ins>Digital Forensics & Incident Response Resources</ins>
 [SANS SIFT Virtual Forensic Workstation](https://www.sans.org/tools/sift-workstation/)  
