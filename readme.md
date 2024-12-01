@@ -2,9 +2,9 @@
 
 For those looking to enter cybersecurity, I strongly recommend getting at least an initial certification to help you get noticed during the application process. All of these certifications cost $250-$500, depending on sales and other discounts, but they are well worth it, and they last three years before they have to be renewed.   
 
-The rest of the listed resources are free, unless noted otherwise:  
-
 #### Recommended certs for beginners:  Security+, Network+, Cloud+ (CompTIA), 
+
+The rest of the listed resources are free, unless noted otherwise:  
 
 ### <ins> Cybersecurity Certification Roadmap</ins>
 https://pauljerimy.com/security-certification-roadmap/
