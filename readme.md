@@ -9,6 +9,8 @@ The rest of the listed resources are free unless noted otherwise:
 ### <ins> Cybersecurity Certification Roadmap</ins>
 https://pauljerimy.com/security-certification-roadmap/
 
+### <ins> Cybersecurity Certification Study Materials</ins>  
+
 ### <ins>Vulnerability Management</ins>
 [Nessus (Tenable)](https://www.tenable.com/downloads/nessus?loginAttempted=true)  
 [Greenbone Community Edition (OpenVAS)](https://greenbone.github.io/docs/latest/)  
@@ -33,3 +35,7 @@ https://pauljerimy.com/security-certification-roadmap/
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 [VMware Workstation (now free)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 [Proxmox Virtual Server](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+
+### <ins>Virtual Machines Manager and community machines</ins>
+[Hashicorp Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
+[Vagrant Virtual Machine App Community](https://portal.cloud.hashicorp.com/vagrant/discover)
