@@ -44,3 +44,9 @@ This section applies to knowledge you should know and feel comfortable with for 
  + **Network Concepts** - Expert-level understanding of networking concepts.
  + **Web Application Security** Solid understanding of web application security concepts, including all concepts in the OWASP top 10. Solid familiarity with using common pen testing tools, such as Burp, Nikto, Metasploit, etc. Most good pen testers rely less on automated tools and more on manipulating how an application works and how to send data to the application. 
  + **Social Engineering**—Pen testing may include testing various controls, such as phishing, wireless networks, removable devices, and lock picking. 
+
+### Security Awareness
++ **Security Training Platforms** - Familiarity with security training platforms or LMS systems to deliver company-wide security training.
++ **Social Engineering Concepts**  - Expert-level knowledge of social engineering techniques.
++ **Writing & Speaking Skills** - Ability to publish articles, blog posts, and awareness messages for all employees.  Ability to deliver presentations in-person or virtually.
++ **Phishing Simulation Testing** - Solid understanding of phishing simulation platforms and their capabilities. Understanding routine testing and the important metrics to capture to understand training effectiveness and identify potential risks. 
