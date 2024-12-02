@@ -4,7 +4,7 @@ You are strongly encouraged to start searching for and reviewing job postings we
 There are several job search engines. I recommend setting up real-time alerts using LinkedIn and Indeed at the minimum. 
 
 ### Keywords
-Play around with various keywords to consistently identify job postings in the role you are interested in. Set the location in all of the United States first to identify more postings and refine your search. You can also look at those postings outside of the area you may be interested in to learn what requirements or skills are listed. 
+Play around with various keywords to consistently identify job postings in the role you are interested in. Set the location in all of the United States first to identify more postings and refine your search. You can also look at those postings outside of the area you may be interested in to learn what requirements or skills are listed. Once you find good keywords, narrow your search to the areas you are interested in. 
 
 ### Job Posting Requirements
 Hiring managers want high-performing team members who don't need a lot of time and effort to train and build skills. It is common for hiring managers to set the bar very high in the job posting. Don't let this discourage you. Apply anyway. The worst that can happen is they ignore or reject your application. 
