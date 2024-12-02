@@ -6,7 +6,7 @@ To separate yourself from that large group of candidates and stand out, you must
 
 For example, you will only have access to commercial vulnerability scanning tools once you get a job in that role. However, by learning the concepts at home through free tools like Nessus or OpenVAS, you will learn most of the core principles used by those enterprise tools. You only need to learn their GUI or way of doing it.   
 
-### General Knowledge  
+### General Baseline Knowledge  
 This section applies to knowledge you should know and feel comfortable with for almost all cybersecurity roles or positions.   
 
 + **Collaboration Tools** - You should be very familiar and comfortable with the use of common enterprise collaboration tools such as Google or Microsoft suite of tools. OneDrive, SharePoint, Teams, cloud sharing, etc., are commonly used in organizations and within cybersecurity.
