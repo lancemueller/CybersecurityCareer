@@ -41,9 +41,9 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Reporting & Metrics** - What metrics and reporting are commonly used to assess the effectiveness of vulnerability detection and remediation? What metrics and reporting are important for the effective remediation of vulnerabilities? 
 
 ### Offensive Security / Penetration Testing (red team)
- + **Network Concepts** - Expert-level understanding of networking concepts.
+ + **Network Concepts** - Expert-level understanding of networking concepts. Full understanding of the OSI model and the services & protocols at each layer. 
  + **Web Application Security** Solid understanding of web application security concepts, including all concepts in the OWASP top 10. Solid familiarity with using common pen testing tools, such as Burp, Nikto, Metasploit, etc. Most good pen testers rely less on automated tools and more on manipulating how an application works and how to send data to the application. 
- + **Social Engineering**—Pen testing may include testing various controls, such as phishing, wireless networks, removable devices, and lock picking. 
+ + **Social Engineering**—Pen testing may include various controls, such as phishing employees, assessing wireless networks, using removable storage devices, and lock picking. 
 
 ### Security Awareness
 + **Security Training Platforms** - Familiarity with security training platforms or LMS systems to deliver company-wide security training.
