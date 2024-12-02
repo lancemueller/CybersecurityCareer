@@ -22,6 +22,10 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Python and/or PowerShell programming** - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
 + **BASH Shell scripting** - The ability to read/write bash shell scripts is valuable.  
 
+### Security Operations
++ **SIEM & Logging concepts** - You should know how SIEMs work. Logging and SIEMs are fundamental to organizations' monitoring and responding to abnormal activity. If you work in a Security Operations Center (SOC), you will be spending 90% of your time in a SIEM,
++ **Event Logging** - You should know the common log events in Windows and Linux systems. For example, what are events 4624, 4625, and 4634?  Where are these logs on the endpoints before being sent to the SIEM?
++ You should be familiar with the concepts of researching and disabling accounts via active directory / Entra ID. 
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
 + **Scanner Concepts** - You should understand all the common options and their meaning found in a network vulnerability scanner. Understand the pros/cons of network scanners vs host-based assessment. How credential-based scans work.   The difference between patch management and vulnerability management. Why are vulnerability metadata such as first and last-seen dates important, and how are they used? What metrics and reporting are commonly used to assess the effectiveness of the vulnerability detection and remediation of vulnerabilities?
