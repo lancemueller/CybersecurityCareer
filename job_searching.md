@@ -8,3 +8,6 @@ Play around with various keywords to consistently identify job postings in the r
 
 ### Job Posting Requirements
 Hiring managers want high-performing team members who don't need a lot of time and effort to train and build skills. It is common for hiring managers to set the bar very high in the job posting. Don't let this discourage you. Apply anyway. The worst that can happen is they ignore or reject your application. 
+
+### Resume
+When applying for a job, review the job posting and ensure your resume meets (and mentions) the main requirements. Even if you don't have the required experience, highlight what you do have in that area and what you can do to increase those skills. 
