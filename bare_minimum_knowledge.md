@@ -16,6 +16,8 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Virtualization** - You should be comfortable installing, configuring, and using a type II hypervisor to virtualize various operating systems. Virtualization is a very common technique for testing and learning various topics.
 + **Linux Operating System** - You don't need to be an expert, but you should be familiar with how to install, configure, and use a Linux operating system. Due to their open-source and free-licensing nature, Linux operating systems are very common in enterprise environments and commonly used for virtualization and testing by security team members.
 + **Encryption** - Since data privacy and protection are core tenets of cybersecurity, you should understand the basic types and uses of encryption.
++ **Active Directory / Entry ID** - You should understand the concept of Active Directory (on-prem) and/or Entra ID (Azure) for managing an organization's identities. Since almost all organizations use some type of central identity management platform (Active Directory and Entra ID are the most common), knowing how they work is important. 
 
-
+### Optional, But Strongly Recommended
++ Python and/or PowerShell programming - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account. 
 
