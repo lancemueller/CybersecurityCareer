@@ -31,7 +31,7 @@ This section applies to knowledge you should know and feel comfortable with for 
 ### Incident Response
 + **Endpoint Knowledge** - You should have a firm understanding of the different operating systems used on our endpoints, servers, network devices, etc. What is normal behavior and processes vs. what is unusual? A firm understanding of account management (local and directory)
  + **Endpoint Protection Platforms (EPP)** - Excellent knowledge of how EPPs work and how they can be used to mitigate various threats.
- + + Test
+   + Test
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
 + **Scanner Concepts** - You should understand all the common options and their meaning found in a network vulnerability scanner. Understand the pros/cons of network scanners vs host-based assessment. How credential-based scans work.   The difference between patch management and vulnerability management. Why are vulnerability metadata such as first and last-seen dates important, and how are they used? What metrics and reporting are commonly used to assess the effectiveness of the vulnerability detection and remediation of vulnerabilities?
