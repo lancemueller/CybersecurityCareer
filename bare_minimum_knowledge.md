@@ -22,7 +22,7 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Python and/or PowerShell programming** - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
 + **BASH Shell scripting** - The ability to read/write bash shell scripts is valuable.  
 
-### Security Operations
+### Security Operations (blue team)
 + **SIEM & Logging concepts** - You should know how SIEMs work. Logging and SIEMs are fundamental to organizations' monitoring and responding to abnormal activity. If you work in a Security Operations Center (SOC), you will be spending 90% of your time in a SIEM,
 + **Event Logging** - You should know the common log events in Windows and Linux systems. For example, what are events 4624, 4625, and 4634?  Where are these logs on the endpoints before being sent to the SIEM? What are interactive logins vs. network logins?  What is the difference between endpoint logs and AD/Entra ID logs?
 + **Endpoint Protection Platforms (EPP)** - You should be familiar with common EPP tools and who are the stronger ones. It is unlikely you can get access to common commercial EPP tools, but understanding their capabilities and what you can do to a single (or multiple endpoints) during a response is important. 
@@ -31,8 +31,14 @@ This section applies to knowledge you should know and feel comfortable with for 
 ### Incident Response
 + **Endpoint Knowledge** - You should have a firm understanding of the different operating systems used on our endpoints, servers, network devices, etc. What is normal behavior and processes vs. what is unusual? A firm understanding of account management (local and directory)
  + **Endpoint Protection Platforms (EPP)** - Excellent knowledge of how EPPs work and how they can be used to mitigate various threats.
-   + Test
+ + **Network Concepts** - Expert-level understanding of networking concepts. 
+
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
 + **Scanner Concepts** - You should understand all the common options and their meaning found in a network vulnerability scanner. Understand the pros/cons of network scanners vs host-based assessment. How credential-based scans work.   The difference between patch management and vulnerability management. Why are vulnerability metadata such as first and last-seen dates important, and how are they used? What metrics and reporting are commonly used to assess the effectiveness of the vulnerability detection and remediation of vulnerabilities?
 + **CVSS & KEV** - A full understanding of CVSS and KEV, and how an organization would commonly use these to prioritize vulnerabilities.
+
+### Offensive Security / Penetration Testing (red team)
+ + **Network Concepts** - Expert-level understanding of networking concepts.
+ + **Web Application Security** Solid understanding of web application security concepts, including all concepts in the OWASP top 10. Solid familiarity with using common pen testing tools, such as Burp, Nikto, Metasploit, etc. Most good pen testers rely less on automated tools and more on manipulating how an application works and how to send data to the application. 
+ + **Social Engineering** - Pen testing may include testing various controls, which may include phishing, wireless networks, removable devices, lock picking, etc. 
