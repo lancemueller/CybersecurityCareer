@@ -24,7 +24,7 @@ This section applies to knowledge you should know and feel comfortable with for 
 
 ### Security Operations
 + **SIEM & Logging concepts** - You should know how SIEMs work. Logging and SIEMs are fundamental to organizations' monitoring and responding to abnormal activity. If you work in a Security Operations Center (SOC), you will be spending 90% of your time in a SIEM,
-+ **Event Logging** - You should know the common log events in Windows and Linux systems. For example, what are events 4624, 4625, and 4634?  Where are these logs on the endpoints before being sent to the SIEM?
++ **Event Logging** - You should know the common log events in Windows and Linux systems. For example, what are events 4624, 4625, and 4634?  Where are these logs on the endpoints before being sent to the SIEM? What are interactive logins vs. network logins?  What is the difference between endpoint logs and AD/Entra ID logs?
 + **Identity Management** - You should be familiar with the concepts of researching and disabling accounts via active directory / Entra ID. 
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
