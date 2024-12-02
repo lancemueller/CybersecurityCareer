@@ -16,7 +16,8 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Virtualization** - You should be comfortable installing, configuring, and using a type II hypervisor to virtualize various operating systems. Virtualization is a very common technique for testing and learning various topics.
 + **Linux Operating System** - You don't need to be an expert, but you should be familiar with how to install, configure, and use a Linux operating system. Due to their open-source and free-licensing nature, Linux operating systems are very common in enterprise environments and commonly used by security team members for virtualization and testing.
 + **Encryption**—Since data privacy and protection are core tenets of cybersecurity, you should understand the basic types (symmetric and asymmetric) and uses of encryption.
-+ **Active Directory / Entry ID** - You should understand the concept of Active Directory (on-prem) and/or Entra ID (Azure) for managing an organization's identities. Since almost all organizations use a central identity management platform (Active Directory and Entra ID are the most common), knowing how they work is important. 
++ **Active Directory / Entry ID** - You should understand the concept of Active Directory (on-prem) and/or Entra ID (Azure) for managing an organization's identities. Since almost all organizations use a central identity management platform (Active Directory and Entra ID are the most common), knowing how they work is important.
++ **Cloud Services** - Firm understanding of cloud service types (IaaS, PaaS, SaaS). Familiar with setting up and managing IaaS.
 
 #### Optional, But Strongly Recommended
 + **Python and/or PowerShell programming** - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
@@ -32,6 +33,7 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Endpoint Knowledge** - You should have a firm understanding of the different operating systems used on our endpoints, servers, network devices, etc. What is normal behavior and processes vs. what is unusual? A firm understanding of account management (local and directory)
  + **Endpoint Protection Platforms (EPP)** - Excellent knowledge of how EPPs work and how they can be used to mitigate various threats.
  + **Network Concepts** - Expert-level understanding of networking concepts. 
+ + **Programming / Scripting / Command line tools ** - Solid knowledge of scripting techniques and various command line tools to parse, search & format data.
 
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
