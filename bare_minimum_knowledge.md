@@ -35,8 +35,10 @@ This section applies to knowledge you should know and feel comfortable with for 
 
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
-+ **Scanner Concepts** - You should understand all the common options and their meaning found in a network vulnerability scanner. Understand the pros/cons of network scanners vs host-based assessment. How credential-based scans work.   The difference between patch management and vulnerability management. Why are vulnerability metadata such as first and last-seen dates important, and how are they used? What metrics and reporting are commonly used to assess the effectiveness of the vulnerability detection and remediation of vulnerabilities?
++ **Scanner Concepts**—You should understand all the common options and their meanings found in a network vulnerability scanner. Understand the pros/cons of network scanners vs. host-based assessment. How credential-based scans work.   The difference between patch management and vulnerability management. Why are vulnerability metadata such as first and last-seen dates important, and how are they used? 
 + **CVSS & KEV** - A full understanding of CVSS and KEV, and how an organization would commonly use these to prioritize vulnerabilities.
++ **Threat Intelligence** - The role of threat intelligence and how exploitability plays an important role in prioritization.
++ **Reporting & Metrics** - What metrics and reporting are commonly used to assess the effectiveness of vulnerability detection and remediation? What metrics and reporting are important for the effective remediation of vulnerabilities? 
 
 ### Offensive Security / Penetration Testing (red team)
  + **Network Concepts** - Expert-level understanding of networking concepts.
