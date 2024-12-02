@@ -33,7 +33,7 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Endpoint Knowledge** - You should have a firm understanding of the different operating systems used on our endpoints, servers, network devices, etc. What is normal behavior and processes vs. what is unusual? A firm understanding of account management (local and directory)
  + **Endpoint Protection Platforms (EPP)** - Excellent knowledge of how EPPs work and how they can be used to mitigate various threats.
  + **Network Concepts** - Expert-level understanding of networking concepts. 
- + **Programming / Scripting / Command line tools ** - Solid knowledge of scripting techniques and various command line tools to parse, search & format data.
+ + **Programming / Scripting / Command line tools** - Solid knowledge of scripting techniques and various command line tools to parse, search & format data.
 
 ### Vulnerability Management
 + **Commercial Vulnerability Scanners** - You should know the three most common vulnerability scanners. For the ones that provide a free/trial version, you should download, install, and use it to scan your home network to see how it performs and looks. 
