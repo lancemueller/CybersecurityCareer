@@ -14,9 +14,9 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Social Engineering Concepts** - Since social engineering is the biggest threat to organizations, you should understand the common social engineering tactics used by threat actors and how they work at a high level.
 + **Industry Security Frameworks** - At a high level, you should be familiar with the various security frameworks commonly used in organizations. You don't need to memorize each section but should be familiar with them.
 + **Virtualization** - You should be comfortable installing, configuring, and using a type II hypervisor to virtualize various operating systems. Virtualization is a very common technique for testing and learning various topics.
-+ **Linux Operating System** - You don't need to be an expert, but you should be familiar with how to install, configure, and use a Linux operating system. Due to their open-source and free-licensing nature, Linux operating systems are very common in enterprise environments and commonly used for virtualization and testing by security team members.
-+ **Encryption** - Since data privacy and protection are core tenets of cybersecurity, you should understand the basic types and uses of encryption.
-+ **Active Directory / Entry ID** - You should understand the concept of Active Directory (on-prem) and/or Entra ID (Azure) for managing an organization's identities. Since almost all organizations use some type of central identity management platform (Active Directory and Entra ID are the most common), knowing how they work is important. 
++ **Linux Operating System** - You don't need to be an expert, but you should be familiar with how to install, configure, and use a Linux operating system. Due to their open-source and free-licensing nature, Linux operating systems are very common in enterprise environments and commonly used by security team members for virtualization and testing.
++ **Encryption**—Since data privacy and protection are core tenets of cybersecurity, you should understand the basic types (symmetric and asymmetric) and uses of encryption.
++ **Active Directory / Entry ID** - You should understand the concept of Active Directory (on-prem) and/or Entra ID (Azure) for managing an organization's identities. Since almost all organizations use a central identity management platform (Active Directory and Entra ID are the most common), knowing how they work is important. 
 
 #### Optional, But Strongly Recommended
 + **Python and/or PowerShell programming** - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
@@ -43,4 +43,4 @@ This section applies to knowledge you should know and feel comfortable with for 
 ### Offensive Security / Penetration Testing (red team)
  + **Network Concepts** - Expert-level understanding of networking concepts.
  + **Web Application Security** Solid understanding of web application security concepts, including all concepts in the OWASP top 10. Solid familiarity with using common pen testing tools, such as Burp, Nikto, Metasploit, etc. Most good pen testers rely less on automated tools and more on manipulating how an application works and how to send data to the application. 
- + **Social Engineering** - Pen testing may include testing various controls, which may include phishing, wireless networks, removable devices, lock picking, etc. 
+ + **Social Engineering**—Pen testing may include testing various controls, such as phishing, wireless networks, removable devices, and lock picking. 
