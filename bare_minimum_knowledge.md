@@ -19,6 +19,6 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Active Directory / Entry ID** - You should understand the concept of Active Directory (on-prem) and/or Entra ID (Azure) for managing an organization's identities. Since almost all organizations use some type of central identity management platform (Active Directory and Entra ID are the most common), knowing how they work is important. 
 
 ### Optional, But Strongly Recommended
-+ Python and/or PowerShell programming - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
-+ BASH Shell scripting - The ability to read/write bash shell scripts is valuable.  
++ **Python and/or PowerShell programming** - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
++ **BASH Shell scripting** - The ability to read/write bash shell scripts is valuable.  
 
