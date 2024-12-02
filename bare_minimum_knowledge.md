@@ -9,7 +9,7 @@ For example, you will only have access to commercial vulnerability scanning tool
 ### General Knowledge  
 This section applies to knowledge you should know and feel comfortable with for almost all cybersecurity roles or positions.   
 
-+ Networking Concepts - You should feel very comfortable with network concepts, including understanding public vs. private IP spacing, subnetting, gateways, CIDR notation, etc.  You should be able to easily explain how the Internet at your house works and each step or device it goes through, how address translations work, how DNS works, etc. 
++ Networking Concepts - You should feel very comfortable with network concepts, including understanding public vs. private IP spacing, subnetting, gateways, CIDR notation, etc.  You should be able to easily explain how the Internet at your house works, each step or device it goes through, how address translation works, the different network layers, how DHCP works, how DNS works, how HTTP works, etc.  You should know the top 10 most common network ports a typical person or business uses.     
 
 
 
