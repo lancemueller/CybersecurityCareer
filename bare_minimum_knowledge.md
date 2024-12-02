@@ -22,3 +22,6 @@ This section applies to knowledge you should know and feel comfortable with for 
 + **Python and/or PowerShell programming** - A basic level of knowledge using Python or PowerShell from the command line and through scripts to query, extract, manipulate, and generate data/information. For example, using a PowerShell cmdlet is very common for a security operations analyst who may need to query or disable an account.
 + **BASH Shell scripting** - The ability to read/write bash shell scripts is valuable.  
 
+### Vulnerability Management
++ **Scanner Concepts** - You should understand all the common options and their meaning found in a network vulnerability scanner. Understand the pros/cons of network scanners vs host-based assessment. How credential-based scans work.   The difference between patch management and vulnerability management. Why are vulnerability metadata such as first and last-seen dates important, and how are they used? What metrics and reporting are commonly used to assess the effectiveness of the vulnerability detection and remediation of vulnerabilities?
++ **CVSS & KEV** - A full understanding of CVSS and KEV, and how an organization would commonly use these to prioritize vulnerabilities.
