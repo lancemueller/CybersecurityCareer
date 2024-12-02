@@ -9,7 +9,7 @@ For example, you will only have access to commercial vulnerability scanning tool
 ### General Knowledge  
 This section applies to knowledge you should know and feel comfortable with for almost all cybersecurity roles or positions.   
 
-+ Networking
++ Networking  
 ++ subnets
 
 
