@@ -1,4 +1,4 @@
-This page outlines and describes various topics a cybersecurity candidate should know when applying for an entry-level job.   
+This page outlines and describes various topics a cybersecurity candidate should know when applying for any entry-level cybersecurity job.   
 
 Obtaining one or more of the recommended certifications may provide a base level of knowledge, but there are many other things that you should research and become familiar with. There may be 1,000,000 empty cyber jobs available today, but only a small portion of those are entry-level positions, and there are thousands of other entry-level candidates trying to break into the cybersecurity industry.   
 
