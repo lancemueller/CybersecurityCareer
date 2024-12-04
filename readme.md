@@ -11,6 +11,8 @@ The rest of the listed resources are free unless noted otherwise:
 ### <ins> Cybersecurity Certification Roadmap</ins>
 https://pauljerimy.com/security-certification-roadmap/
 
+### <ins>[Skills you should have when applying](https://github.com/lancemueller/CybersecurityCareer/blob/main/bare_minimum_knowledge.md)</ins>
+
 ### <ins>Vulnerability Management</ins>
 [Nessus (Tenable)](https://www.tenable.com/downloads/nessus?loginAttempted=true)  
 [Greenbone Community Edition (OpenVAS)](https://greenbone.github.io/docs/latest/)  
